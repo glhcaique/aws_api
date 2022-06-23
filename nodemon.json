@@ -1,0 +1,13 @@
+{
+    "env" : {
+        "PORT" : 3000,
+
+        "MYSQL_DATABASE" : "dev_db",
+        "MYSQL_USER" : "root",
+        "MYSQL_PASSWORD" : "mariadbpw",
+        "MYSQL_HOST" : "localhost",
+        "MYSQL_PORT": "55002",
+        "MYSQL_DIALECT": "mysql"
+    }
+}
+
